@@ -168,6 +168,16 @@ body {
   width: 100%;
   height: auto;
   display: block;
+  margin: 0 auto;
+}
+
+#job-scheduler-1,
+#job-scheduler-2 {
+  width: 75%;
+}
+
+#parser {
+  width: 75%;
 }
 
 .description {
